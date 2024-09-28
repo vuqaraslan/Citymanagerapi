@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CityManagerApi_aspls13.props" />
+</Project>
